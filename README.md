@@ -44,9 +44,9 @@ Je suis actuellement à la recherche de supporters comme vous qui apprécient mo
 
 <!--Github stats Table--> 
 <h2 align="center">
-    <img src="./graph.png" alt="Graph" width=15 height=15/>
+    <img src="./business-chart.png" alt="Graph" width=15 height=15/>
     GITHUB STATS
-    <img src="./graph.png" alt="Graph" width=15 height=15/>
+    <img src="./business-chart.png" alt="Graph" width=15 height=15/>
 </h2>
 
 <table width="100%">
