@@ -12,7 +12,7 @@
     style="font-size: 20px;
     font-style: italic!important;
     margin-top:-18px">
-    By Speedybac 2026
+    By Speedybac
 </p>
 
 <!--Start Intro-->     
