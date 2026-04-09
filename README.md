@@ -1,24 +1,35 @@
 <!--Banner-->
-![Speedybac223 Banner Image](./img/synth_banner.png)
+![Speedybac223 Banner Image](./img/cloudboat.png)
 
 <!--Header Name-->
-# Je suis <strong>Speedybac</strong>  !
-*Designer Graphique / Tech*
-<br /> 
-✨ Formateur en Reconditionnement informatique et president de l'Association Le Garage Numerique depuis Mars 2024
+<h1 align="center"
+    style="font-size: 40px;
+    text-transform: uppercase;
+    margin-top:-30px;">
+    <strong>𝙇𝘼 𝙑𝙄𝙀 𝘾'𝙀𝙎𝙏 𝙋𝘼𝙎 𝙐𝙉 𝙋𝙄𝘾𝙉𝙄𝘾 !</strong>
+</h1>
+<p align="CENTER" 
+    style="font-size: 20px;
+    font-style: italic!important;
+    margin-top:-18px">
+    By Speedybac 2026
+</p>
 
 <!--Start Intro-->     
-## Qui suis-je <img src="./img/question.gif" width=20 height=20 alt="contact@speedybac.dev" style="margin-bottom: 0px"/>          
+## Qui suis-je <img src="./img/question.gif" width=20 height=20 alt="contact@speedybac.dev" style="margin-left: 10px; margin-bottom: -3px"/>
+          
 <p align="left">
-Designer graphique passionné par la Tech DIY, la création d'impression, l'électronique, la soudure électronique, l'installation et la réparation d'ordinateurs. Je suis fasciné par l'univers de la technologie et je me passionne pour trouver des solutions innovantes pour améliorer les expériences des utilisateurs.
+✨ Formateur en Reconditionnement informatique et president de l'Association Le Garage Numerique depuis Mars 2024
 
-**Mes passions :** <img src="./img/mario-star.png" width=30 height=30 alt="contact@speedybac.dev" style="margin-bottom: -12px"/>
+Designer graphique passionné par la Tech DIY, la création de piece 3D aisi que de l'impression 3D, l'électronique, la soudure électronique, l'installation et la réparation d'ordinateurs. Je suis fasciné par l'univers de la technologie et je me passionne pour trouver des solutions innovantes pour améliorer les expériences des utilisateurs.
+
+**Mes passions :** <img src="./img/mario-star.png" width=30 height=30 alt="contact@speedybac.dev" style="margin-left: 10px; margin-bottom: -12px"/>
 
 *   Design graphique : je me consacre à la création de designs visuels qui aident les marques à se démarquer et à communiquer leur message de manière efficace.
 *   Tech DIY : je suis un grand fan de la DIY (do-it-yourself) et je m'intéresse à la création de projets électroniques et de démonstration de systèmes complexes de manière accessible.
 *   Électronique : je suis fasciné par les principes fondamentaux de l'électronique et je me passionne pour l'apprentissage de nouveaux technologies et de nouveaux matériaux.
 
-**Mes compétences :** <img src="./img/level_up.png" width=20 height=20 alt="contact@speedybac.dev" style="margin-bottom: -5px"/>
+**Mes compétences :** <img src="./img/level_up.png" width=20 height=20 alt="contact@speedybac.dev" style="margin-left: 10px; margin-bottom: -5px"/>
 
 *   Design graphique : je suis compétent en design graphique, en création de maquettes, en conception de interfaces utilisateur et en création de contenus visuels.
 *   Soudure électronique : je suis compétent en soudure électronique et je peux réaliser des projets électroniques de base.
@@ -31,13 +42,14 @@ Designer graphique passionné par la Tech DIY, la création d'impression, l'éle
     <strong>
         <img src="./img/skill.png" alt="Graph"
         width=20 height=20
-        style="margin-right: 10px"/>
+        style="margin-right: 10px; margin-bottom: -2px"/>
         TECH STATS
         <img src="./img/skill.png" alt="Graph"
         width=20 height=20
-        style="margin-right: 10px"/>
+        style="margin-left: 10px; margin-bottom: -2px"/>
     </strong>
 </h2>
+<br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,16 +63,16 @@ Designer graphique passionné par la Tech DIY, la création d'impression, l'éle
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 <!--End Tech Stack-->
-
+<br/>
 <!--Github stats Table--> 
 <h2 align="center">
     <img src="./img/stats.png" alt="Graph"
-        width=20 height=20
-        style="margin-right: 10px"/>
+        width=30 height=30
+        style="margin-right: 10px; margin-bottom:-8"/>
         <strong>GITHUB STATS</strong>
     <img src="./img/stats.png" alt="Graph"
-        width=20 height=20
-        style="margin-left: 10px"/>
+        width=30 height=30
+        style="margin-left: 10px; margin-bottom:-8"/>
 </h2>
 
 <table width="100%">
@@ -108,14 +120,14 @@ Designer graphique passionné par la Tech DIY, la création d'impression, l'éle
 <h2 align="center">
     <img src="./img/contrib.png" alt="Graph"
         width=30 height=30
-        style="margin-right: 10px"/>
+        style="margin-right: 10px; margin-bottom:-8"/>
     <strong>CONTRIBUTIONS GRAPH</strong>
     <img src="./img/contrib.png" alt="Graph"
         width=30 height=30
-        style="margin-left: 10px"/>
+        style="margin-left: 10px; margin-bottom:-8"/>
 </h2>
 
-<br>
+<br><br/>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Speedybac223&bg_color=292929&&color=ffffff&line=73EC8B&point=FFAF00&area=false&hide_border=false" border-radius="15">
@@ -128,27 +140,28 @@ Designer graphique passionné par la Tech DIY, la création d'impression, l'éle
 
 <h2 align="center">
     <img src="./img/contact.png" alt="Graph" 
-        width=25 height=25/ 
-        style="margin-bottom: -7px; margin-right: 10px">
+        width=30 height=30 
+        style="margin-right: 10px; margin-bottom: -8px">
     <strong>Connect With Me</strong>
     <img src="./img/contact.png" alt="Graph" 
-        width=25 height=25 
-        style="margin-bottom: -7px; margin-left: 10px"> 
+        width=30 height=30 
+        style="margin-left: 10px; margin-bottom: -8px"> 
 </h2>
+<br/>
 <div align="center">
     <a href="mailto:contact@speedybac.dev" target="_blank">
         <img src="./img/email.png" 
             width=50 height=50 alt="contact@speedybac.dev" 
-            style="margin-bottom: 5px;"/>
+            style="margin:0 20 0 0;"/>
     </a>
     <a href="https://linktr.ee/speedybac" target="_blank">
         <img src="./img/linktree.png" 
             width=50 height=50 alt="Linktree" 
-            style="margin-bottom: 5px;"/>
+            style="margin:0 20 0 0;"/>
     </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <!--Buy me a coffee-->
 <div align="center">
@@ -157,8 +170,7 @@ Designer graphique passionné par la Tech DIY, la création d'impression, l'éle
         style="height: 40px !important;width: 200px !important;" >
     </a>
 </div>
-
-
+<br/>
 <!--Footer--> 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
